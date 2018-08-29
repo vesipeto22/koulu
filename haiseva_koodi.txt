@@ -1,0 +1,4 @@
+Koodin haju(t) on erilaisia ongelmia joita koodissa voi olla.
+Niit‰ on luokkatason, applikaatiotason ja metoditason ongelmat ja esimerkkekkej‰ ongelmista on: 
+Kommenttienkin puuttuminensill‰ et kirjoita koodia koneille vaan ihmisille, turha koodi joka ei tee mit‰‰n, toistuva koodi jolla ei ole mit‰‰n uutta tarkoitusta ja 
+oudot nimet luokille joista ei voi tajuta mit‰ ne tekee.
